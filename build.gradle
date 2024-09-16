@@ -1,0 +1,3 @@
+dependencies {
+    implementation "org.mortbay.jetty:jetty-webapp:9.3.26.v20190403"
+}
